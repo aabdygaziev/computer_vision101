@@ -1,24 +1,3 @@
----
-layout: post
-title: Image Preprocessing with Numpy
----
-
-***
-
-
-                                            “A picture is worth a thousand words”
-                             
-
-
-***                             
-
-Machine Learning is a big field to be in. Sometimes you might get lost in it which happened to me. I wanted to do everything. I did several projects, and finally I found a joy working with images, so I decided to specialize in application of deep learning in ***Computer Vision***.
-
-There are multiples of image processing libraries such as **OpenCV, PILLOW, scikit-image, SciPy-Ndimage** etc. But I am not goin to use those here, instead I will try out simple techniques with Numpy.
-
-There are many great resources to learn Computer Vision. Currently, I am reading **"Deep Learning for Computer Vision"** by Adrian Rosebrock.
-
-Link to his page: https://www.pyimagesearch.com/
 
 Let's load **numpy** and **matplotlib** packages.
 
